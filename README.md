@@ -2,7 +2,9 @@
 
 
 
-
+<p align="center">
+  <img src="assets/fairskin-dashboard.png" alt="FairSkin-AI Dashboard" width="100%">
+</p>
 
 
 
