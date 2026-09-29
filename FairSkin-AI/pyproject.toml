@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fairskin-ai"
+version = "1.0.0"
+description = "Fairness-aware dermatology image classification research toolkit"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "FairSkin-AI Contributors"}]
+
+[tool.setuptools.packages.find]
+include = ["fairskin_ai*"]
