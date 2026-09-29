@@ -7,7 +7,7 @@
 
 
 
-![Uploading fair-skin-project.png…]()
+
 
 ### Fairness-Aware Dermatology Image Classification Across Skin-Tone Groups
 
