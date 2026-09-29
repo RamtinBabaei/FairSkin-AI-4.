@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="fairskin-dashboard.png.png" alt="FairSkin-AI Dashboard" width="100%">
+  <img src="fairskin-dashboard.png" alt="FairSkin-AI Dashboard" width="100%">
 </p>
 
 
