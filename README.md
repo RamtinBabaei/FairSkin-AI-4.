@@ -1,5 +1,14 @@
 # FairSkin-AI
 
+
+
+
+
+
+
+
+![Uploading fair-skin-project.png…]()
+
 ### Fairness-Aware Dermatology Image Classification Across Skin-Tone Groups
 
 **FairSkin-AI** is a reproducible deep-learning research prototype for auditing and mitigating subgroup performance disparities in dermatology image classification. The project evaluates whether a model performs consistently across **Fitzpatrick skin-tone groups** and tests simple mitigation strategies that aim to reduce performance gaps without sacrificing overall predictive utility.
